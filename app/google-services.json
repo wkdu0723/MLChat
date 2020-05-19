@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75691425975",
+    "firebase_url": "https://mlchat-e529f.firebaseio.com",
+    "project_id": "mlchat-e529f",
+    "storage_bucket": "mlchat-e529f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75691425975:android:e33fcc7d0bbfbca6014d32",
+        "android_client_info": {
+          "package_name": "com.ml.mlchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75691425975-0pdsvcrlqfm61i2p0l3d51mpk622imr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ml.mlchat",
+            "certificate_hash": "069d23f40a48d7e24724e6cd52a482a0b85f2371"
+          }
+        },
+        {
+          "client_id": "75691425975-2o3ukegn5lpds0egere4ja8vh05otrok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkP1TfR3zlov5R0yAXHY5jRTJsMKqi8Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75691425975-2o3ukegn5lpds0egere4ja8vh05otrok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
